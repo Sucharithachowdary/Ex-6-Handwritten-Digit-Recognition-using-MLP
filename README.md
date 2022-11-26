@@ -153,7 +153,25 @@ get_accuracy(dev_predictions, Y_dev)
 
 
 ## Output :
-![output](?raw=true)
+![output](https://github.com/Sucharithachowdary/Ex-6-Handwritten-Digit-Recognition-using-MLP/blob/main/n1.png?raw=true)
+
+![output](https://github.com/Sucharithachowdary/Ex-6-Handwritten-Digit-Recognition-using-MLP/blob/main/n2.png?raw=true)
+
+![output](https://github.com/Sucharithachowdary/Ex-6-Handwritten-Digit-Recognition-using-MLP/blob/main/n3.png?raw=true)
+
+![output](https://github.com/Sucharithachowdary/Ex-6-Handwritten-Digit-Recognition-using-MLP/blob/main/n4.png?raw=true)
+
+![output](https://github.com/Sucharithachowdary/Ex-6-Handwritten-Digit-Recognition-using-MLP/blob/main/n5.png?raw=true)
+
+![output](https://github.com/Sucharithachowdary/Ex-6-Handwritten-Digit-Recognition-using-MLP/blob/main/n6.png?raw=true)
+
+![output](https://github.com/Sucharithachowdary/Ex-6-Handwritten-Digit-Recognition-using-MLP/blob/main/n7.png?raw=true)
+
+![output](https://github.com/Sucharithachowdary/Ex-6-Handwritten-Digit-Recognition-using-MLP/blob/main/n8.png?raw=true)
+
+![output](https://github.com/Sucharithachowdary/Ex-6-Handwritten-Digit-Recognition-using-MLP/blob/main/n9.png?raw=true)
+
+![output](https://github.com/Sucharithachowdary/Ex-6-Handwritten-Digit-Recognition-using-MLP/blob/main/n10.png?raw=true)
 
 
 ## Result:
