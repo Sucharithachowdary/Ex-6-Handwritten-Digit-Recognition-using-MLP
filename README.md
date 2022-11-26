@@ -153,6 +153,7 @@ get_accuracy(dev_predictions, Y_dev)
 
 
 ## Output :
+
 ![output](https://github.com/Sucharithachowdary/Ex-6-Handwritten-Digit-Recognition-using-MLP/blob/main/n1.png?raw=true)
 
 ![output](https://github.com/Sucharithachowdary/Ex-6-Handwritten-Digit-Recognition-using-MLP/blob/main/n2.png?raw=true)
