@@ -121,17 +121,12 @@ test_prediction(3, W1, b1, W2, b2)
 ### Output :
 ![Output](https://github.com/Sucharithachowdary/Ex-6-Handwritten-Digit-Recognition-using-MLP/blob/main/6a.jpg?raw=true)
 ![Output](https://github.com/Sucharithachowdary/Ex-6-Handwritten-Digit-Recognition-using-MLP/blob/main/6b.jpg?raw=true)
-
 ![Output](https://github.com/Sucharithachowdary/Ex-6-Handwritten-Digit-Recognition-using-MLP/blob/main/6c.jpg?raw=true)
 ![Output](https://github.com/Sucharithachowdary/Ex-6-Handwritten-Digit-Recognition-using-MLP/blob/main/6d.jpg?raw=true)
-
 ![Output](https://github.com/Sucharithachowdary/Ex-6-Handwritten-Digit-Recognition-using-MLP/blob/main/6e.jpg?raw=true)
 ![Output](https://github.com/Sucharithachowdary/Ex-6-Handwritten-Digit-Recognition-using-MLP/blob/main/6f.jpg?raw=true)
-
 ![Output](https://github.com/Sucharithachowdary/Ex-6-Handwritten-Digit-Recognition-using-MLP/blob/main/6g.jpg?raw=true)
-
 ![Output](https://github.com/Sucharithachowdary/Ex-6-Handwritten-Digit-Recognition-using-MLP/blob/main/6h.jpg?raw=true)
-
 ![Output](https://github.com/Sucharithachowdary/Ex-6-Handwritten-Digit-Recognition-using-MLP/blob/main/6i.jpg?raw=true)
 
 ### Result :
