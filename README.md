@@ -112,11 +112,13 @@ def test_prediction(index, W1, b1, W2, b2):
    plt.imshow(current_image, interpolation='nearest')
    plt.show()
    ```
-   ```
+   
    test_prediction(0, W1, b1, W2, b2)
 test_prediction(1, W1, b1, W2, b2)
 test_prediction(2, W1, b1, W2, b2)
 test_prediction(3, W1, b1, W2, b2)
+
+### Output :
 ![Output](https://github.com/Sucharithachowdary/Ex-6-Handwritten-Digit-Recognition-using-MLP/blob/main/6a.jpg?raw=true)
 ![Output](https://github.com/Sucharithachowdary/Ex-6-Handwritten-Digit-Recognition-using-MLP/blob/main/6b.jpg?raw=true)
 
